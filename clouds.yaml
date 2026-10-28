@@ -1,0 +1,10 @@
+clouds:
+  devstack:
+    auth:
+      auth_url: http://192.168.56.10/identity/v3
+      application_credential_id: 3036e916f6f540e18920fd37d827e815
+      application_credential_secret: zGNjXi-AIlL86xa-I5rjsGXs1urEQDdoZE4TN88jgAP5mvlINW6JckohD1-QSj7evTEdwQiVhT1sGQPlOqxi1g
+    auth_type: v3applicationcredential
+    region_name: RegionOne
+    identity_api_version: "3"
+    volume_api_version: "3"
